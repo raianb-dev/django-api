@@ -1,2 +1,2 @@
 # django-api
-Api Build Django REST Framework
+API Build Django REST Framework
