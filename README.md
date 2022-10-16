@@ -12,7 +12,7 @@ git clone https://github.com/raianb-dev/django-api.git
 
 ## Run Server comands 
 
-`docker-compose up` running in 'localhost:8000'
+`docker-compose up` running in `localhost:8000
 
 
 
